@@ -227,3 +227,4 @@ pipeline {
 ## 👤 Auteur
 
 **ESPRIT — UP ASI**  
+Pipeline CI/CD : Jenkins (Poll SCM)
